@@ -4,9 +4,8 @@
 <details><summary> Click Here</summary>
 <p>
 
-```
-# Testing out a collapsed section
-```
+ Testing out a collapsed section
+
 ![Image](https://github.com/Alfred00ni/MyWebsite/blob/8520c7d73b1da099c0c0aaca35f85cffe8e618b0/IMG-0367.jpg)
 
 
@@ -14,6 +13,10 @@
 </details>
 
 -[x]Completed Homework
+
 -[ ]Walk Dog
+
 -[ ]Pick up sister from school
 
+
+![Image](https://github.com/Alfred00ni/MyWebsite/blob/8520c7d73b1da099c0c0aaca35f85cffe8e618b0/IMG-0367.jpg)
