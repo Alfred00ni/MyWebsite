@@ -1,9 +1,9 @@
-# Welcom to Webnet.
+# Welcome to Nett ![Logo](ExampleLogo.png)
 ## This is site is all about what is going on the net
->The net is full of random shit!
-### This website was made here at [Weber State](https://www.weber.edu/ "Webers Homepage")
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris accumsan, bibendum neque sit amet, hendrerit lacus. Nunc eros augue, ultricies ac ipsum at, aliquam volutpat 
 
-# Top 3 controversial food takes!!!
+
+## Top 3 controversial food takes!!!
 
 1.Bone chicken or boneless chicken
 
@@ -11,21 +11,19 @@
 
 3.Bread 
 
+## Top News Going on Now!
 
-![Logo](ExampleLogo.png)
-# Top News Going on Now!
-
-| Name | Website|
+| Title | Website|
 |:---:|:---:|
-| utuber has meltdown on cam | utube |
-| Famous Cleb getting cancelled on shitter | Shitter |
-| New ephone anonucment | ephone |
+| utuber gets exposed by friend| utube |
+| Famous Cleb getting cancelled on BlueBird | BlueBird |
+| New eyephone anonucment | eyephone |
+| World War Three | any news program |
 
 
 
 
-
-# My Life Story
+## What is the Internet???
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris accumsan, bibendum neque sit amet, hendrerit lacus. Nunc eros augue, ultricies ac ipsum at, aliquam volutpat magna. Donec sed ipsum laoreet, iaculis magna eu, tempus metus. Ut id auctor ligula, ut sollicitudin leo. Vestibulum orci purus, lobortis at ligula a, condimentum vulputate augue. Vestibulum a elit quis urna congue fermentum. In blandit euismod elit auctor iaculis. Vestibulum sem arcu, cursus vitae dapibus scelerisque, gravida sed metus. Mauris nec porttitor erat, non ultricies nisl. Praesent varius rutrum massa eu finibus.
 
@@ -34,11 +32,11 @@
 <details><summary>  </summary>
 <p>
 
- :o
+ > :o
 
 </p>
 </details>
 
 
 
-###### Secret [Link](https://lipsum.com/)
+#### This website was made here at [Weber State](https://www.weber.edu/ "Webers Homepage")
