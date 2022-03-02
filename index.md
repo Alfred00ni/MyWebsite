@@ -13,6 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris acc
 ![Dog](IMG-0367.jpg)
 
 > His name is KoKo
+
 </p>
 </details>
 
